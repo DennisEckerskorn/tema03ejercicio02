@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">tema03ejercicio02</string>
+    <string name="tvTitle">Factorial</string>
+    <string name="tvDescription">Enter a whole number</string>
+    <string name="bCalculate">Calculate</string>
+</resources>

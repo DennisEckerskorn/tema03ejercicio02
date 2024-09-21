@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tema03ejercicio02</string>
+    <string name="tvTitle">Factorial</string>
+    <string name="tvDescription">Introduce un numero entero</string>
+    <string name="bCalculate">Calcular</string>
+</resources>
